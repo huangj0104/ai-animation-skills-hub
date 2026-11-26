@@ -1,0 +1,2 @@
+shot_id,start,end,duration_sec,scene_id,character_ids,location,shot_size,camera_angle,camera_move,visual_action,dialogue_or_vo,voice_or_sfx,asset_refs,generation_method,model_candidate,continuity_notes,post_tasks,status
+SHOT-001,00:00,00:05,5,SCENE-01,CHAR-01,LOCATION-01,medium,eye-level,slow-push-in,Describe visible action,,,,,pending,
