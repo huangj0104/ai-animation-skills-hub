@@ -4,7 +4,7 @@
 >
 > 面向 AI 动画与视频创作的实战型 Skills、工具、模型、工作流与制作规范知识库。
 
-**Status / 状态:** Initial foundation  
+**Status / 状态:** Active curation · 基础框架与首批资源已建立  
 **Languages / 语言:** 简体中文为主，关键文档提供 English  
 **Scope / 范围:** Agent Skills · AI Video · 2D/3D Animation · Character Animation · Storyboarding · Motion Graphics · Lip Sync · Editing · Voice & Sound · VFX
 
@@ -68,12 +68,14 @@ This repository aims to be a maintainable, verifiable, reusable hub for AI-assis
 
 ## 5. 快速开始 | Getting started
 
-1. 从 [内容分类](docs/taxonomy.md) 了解本项目的收录标准。
-2. 用 [Skill 模板](templates/skill-template/SKILL.md) 创建新的 Agent Skill。
-3. 提交前阅读 [贡献指南](CONTRIBUTING.md) 和 [许可证说明](docs/licensing.md)。
-4. 通过 [路线图](ROADMAP.md) 查看建设优先级。
+1. 浏览 [Agent Skills 目录](catalog/agent-skills.md)，查看带有真实 `SKILL.md` 的技能。
+2. 浏览 [视频模型](catalog/video-models.md)、[动画工具](catalog/animation-tools.md) 和 [音频/口型同步](catalog/audio-and-lipsync.md) 索引。
+3. 从 [动画前期制作 Skill](skills/preproduction/animation-production-planner/SKILL.md) 和 [AI 短片工作流](workflows/short-film/README.md) 开始。
+4. 使用 [分镜模板](templates/storyboard-template.md)、[镜头清单 CSV](templates/shot-list-template.csv) 或 [Skill 模板](templates/skill-template/SKILL.md)。
+5. 提交前阅读 [内容分类](docs/taxonomy.md)、[贡献指南](CONTRIBUTING.md) 和 [许可证说明](docs/licensing.md)。
+6. 通过 [路线图](ROADMAP.md) 查看建设优先级。
 
-目前仓库处于基础框架阶段，具体工具、模型和 Skill 将在核验官方来源、许可和维护状态后逐步收录。
+本仓库已建立基础规范，并开始收录首批可核验的 Skill、模型、动画工具和工作流。条目中的“来源已核验”不代表本仓库已安装或完成运行测试；请留意各页面的状态说明。
 
 ## 6. 收录质量标准 | Curation checklist
 
